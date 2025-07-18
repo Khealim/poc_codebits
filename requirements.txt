@@ -1,0 +1,4 @@
+streamlit
+pandas
+avro-python3
+flatten-dict
